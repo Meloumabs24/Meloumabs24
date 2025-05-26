@@ -62,6 +62,7 @@ I am a solutions-oriented developer with a mission to bridge the gap between **t
 - **Goal:** Supports smart farming and conserves water.
 
 ---
+**Watch My Elevator Pitch:** [https://youtu.be/RePzlm3O2eM](https://youtu.be/RePzlm3O2eM)
 
 
 Feel free to connect with me or explore my work further through my [linkedin.com/in/tumelo-mabhena-1b689a1b1](#).
