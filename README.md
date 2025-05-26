@@ -29,18 +29,43 @@ I am a solutions-oriented developer with a mission to bridge the gap between **t
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Projects
 
-```bash
-📦 portfolio-website/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── main.js
-├── assets/
-│   └── images/
-└── README.md
+### 1. Smart Hydroponic System
+- **Description:** Automated hydroponic system with sensors to monitor pH, temperature, and water levels.
+- **Technologies:** Arduino, IoT sensors, LCD display.
+- **Impact:** Promotes sustainable agriculture and supports smallholder farmers in regions affected by climate change.
+
+### 2. Motion-Activated Security System
+- **Description:** Low-cost PIR-based security system that triggers an alarm when motion is detected.
+- **Technologies:** PIR sensor, Arduino, buzzer, LED indicators.
+- **Use Case:** Home or office security for remote and urban areas.
+
+### 3. Bluetooth-Controlled Smart Car
+- **Description:** Robotic car prototype controlled via Bluetooth using a smartphone.
+- **Technologies:** Arduino Uno, HC-05 Bluetooth module, L298N Motor Driver.
+- **Skills Demonstrated:** Embedded systems, circuit design, mobile interfacing.
+
+### 4. Digital Temperature and Humidity Logger
+- **Description:** Real-time environmental condition logger for agriculture.
+- **Technologies:** DHT11 sensor, Arduino, SD card module.
+- **Application:** Tracks microclimate data in greenhouses and hydroponic systems.
+
+### 5. Solar USB Phone Charger
+- **Description:** Portable charger using solar panels and a voltage regulator circuit.
+- **Technologies:** Solar cells, 7805 voltage regulator, USB output.
+- **Objective:** Provides off-grid charging solutions using renewable energy.
+
+### 6. Automatic Plant Watering System
+- **Description:** System that automatically waters plants when soil moisture drops below threshold.
+- **Technologies:** Soil moisture sensor, Arduino Nano, water pump relay.
+- **Goal:** Supports smart farming and conserves water.
+
+---
+
+
+Feel free to connect with me or explore my work further through my [linkedin.com/in/tumelo-mabhena-1b689a1b1](#).
+
+---
+
+> "Innovation lies in simplicity and purpose-driven creation."
